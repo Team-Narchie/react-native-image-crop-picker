@@ -1,5 +1,11 @@
 # react-native-image-crop-picker
 
+# Narchie changes
+1. Library respects image order of selection. Code cherry picked from https://github.com/ivpusic/react-native-image-crop-picker/pull/1672 and ONLY added to iOS for now since we dont have an android version currently.
+
+# Narchie TODOs
+1. Apply and test the above droid patch selectively
+
 [![Backers on Open Collective](https://opencollective.com/react-native-image-crop-picker/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-image-crop-picker/sponsors/badge.svg)](#sponsors)
 
 <img src="svg.svg" width="50%" height="50%" />
